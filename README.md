@@ -6,14 +6,14 @@ SleepCamp is a personal WeChat Mini Program project. This public edition preserv
 
 <table>
   <tr>
-    <td align="center"><img src="docs/1.png" width="250px"/><br/><sub><b>界面 1</b></sub></td>
-    <td align="center"><img src="docs/2.png" width="250px"/><br/><sub><b>界面 2</b></sub></td>
-    <td align="center"><img src="docs/3.png" width="250px"/><br/><sub><b>界面 3</b></sub></td>
+    <td align="center"><img src="docs/1.png" width="250px"/><br/><sub><b>UI1: Journey</b></sub></td>
+    <td align="center"><img src="docs/2.png" width="250px"/><br/><sub><b>UI1: Journey</b></sub></td>
+    <td align="center"><img src="docs/3.png" width="250px"/><br/><sub><b>UI2: Camp detail</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/4.png" width="250px"/><br/><sub><b>界面 4</b></sub></td>
-    <td align="center"><img src="docs/5.png" width="250px"/><br/><sub><b>界面 5</b></sub></td>
-    <td align="center"><img src="docs/6.png" width="250px"/><br/><sub><b>界面 6</b></sub></td>
+    <td align="center"><img src="docs/4.png" width="250px"/><br/><sub><b>UI3: Community</b></sub></td>
+    <td align="center"><img src="docs/5.png" width="250px"/><br/><sub><b>UI3: Community with 150+ beta users</b></sub></td>
+    <td align="center"><img src="docs/6.png" width="250px"/><br/><sub><b>UI4: Profile</b></sub></td>
   </tr>
 </table>
 
