@@ -4,7 +4,18 @@ SleepCamp is a personal WeChat Mini Program project. This public edition preserv
 
 ## UI Preview
 
-![SleepCamp UI demonstration 1](docs/1.png) ![SleepCamp UI demonstration 2](docs/2.png) ![SleepCamp UI demonstration 2](docs/3.png) ![SleepCamp UI demonstration 2](docs/4.png) ![SleepCamp UI demonstration 2](docs/5.png) ![SleepCamp UI demonstration 2](docs/6.png)
+<table>
+  <tr>
+    <td align="center"><img src="docs/1.png" width="250px"/><br/><sub><b>界面 1</b></sub></td>
+    <td align="center"><img src="docs/2.png" width="250px"/><br/><sub><b>界面 2</b></sub></td>
+    <td align="center"><img src="docs/3.png" width="250px"/><br/><sub><b>界面 3</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/4.png" width="250px"/><br/><sub><b>界面 4</b></sub></td>
+    <td align="center"><img src="docs/5.png" width="250px"/><br/><sub><b>界面 5</b></sub></td>
+    <td align="center"><img src="docs/6.png" width="250px"/><br/><sub><b>界面 6</b></sub></td>
+  </tr>
+</table>
 
 ## Suggested reading order
 
