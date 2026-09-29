@@ -1,0 +1,3 @@
+.banner { padding: 24rpx; border: 1rpx solid #dddddd; }
+.banner-title { font-size: 32rpx; font-weight: 700; }
+.banner-subtitle { margin-top: 12rpx; font-size: 24rpx; line-height: 1.6; }

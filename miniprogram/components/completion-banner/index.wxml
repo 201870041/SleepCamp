@@ -1,0 +1,4 @@
+<view wx:if="{{visible}}" class="banner">
+  <view class="banner-title">{{title}}</view>
+  <view class="banner-subtitle">{{subtitle}}</view>
+</view>

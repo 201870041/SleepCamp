@@ -1,0 +1,12 @@
+<!-- Standalone presentation excerpt. No actual exercise content is provided. -->
+<view class="page-card">
+  <text wx:if="{{status === 'loading'}}">Loading...</text>
+  <view wx:elif="{{status === 'error'}}">
+    <text>{{errorMessage}}</text>
+    <button bindtap="reload">Try again</button>
+  </view>
+  <view wx:elif="{{status === 'ready'}}">
+    <view class="item-label">{{item.label}}</view>
+    <text>{{item.description}}</text>
+  </view>
+</view>

@@ -1,0 +1,10 @@
+{
+  "name": "sleepcamp-selected-source",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disconnected source samples with the original project organization",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}
